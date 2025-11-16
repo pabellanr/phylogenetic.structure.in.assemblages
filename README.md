@@ -11,7 +11,7 @@ Citation and details:
 
 Abellán P, Carrete M, Anadón JD, Cardador L, Tella JL. 2015. Non-random patterns and temporal trends (1912-2012) in the transport, introduction and establishment of exotic birds in Spain and Portugal. Diversity and Distributions, 22: 263-273.
 
-B. Identifying which clades significantly contribute to the phylogenetic structure in an assemblage
+B) Identifying which clades significantly contribute to the phylogenetic structure in an assemblage
 
 For each node in the phylogeny, it is tested whether it has significantly more descendent taxa in a sample than would be expected by chance by means of a randomization test (equivalent to NODESIG function in Phylocom software). Observed patterns are compared to those from random draws of s taxa from the phylogeny terminals where s is the number of taxa in the sample.
 
