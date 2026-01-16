@@ -16,5 +16,3 @@ For each node in the phylogeny, it is tested whether it has significantly more d
 Citation and details:
 
 Abellán P, Carrete M, Anadón JD, Cardador L, Tella JL. 2015. Non-random patterns and temporal trends (1912-2012) in the transport, introduction and establishment of exotic birds in Spain and Portugal. Diversity and Distributions, 22: 263-273.
-
-Share this:
